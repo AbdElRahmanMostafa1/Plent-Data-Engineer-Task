@@ -1,4 +1,4 @@
-# Brand Management App
+# Brand App
 
 This is a brand management application that allows you to manage brands including running migrations and seeding initial data.
 
