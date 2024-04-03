@@ -1,0 +1,290 @@
+[{
+    "_id": {
+      "$oid": "66069ff93007b006635c0245"
+    },
+    "brandName": "Ward, Hand and Ortiz",
+    "yearCreated": "1970",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.865Z"
+    },
+    "yearFounded": 1600
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0246"
+    },
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.871Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0247"
+    },
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.874Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0248"
+    },
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1600,
+    "yearCreated": "1970",
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.876Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c0249"
+    },
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "yearsFounded": "1980",
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.879Z"
+    },
+    "yearFounded": 1600
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024a"
+    },
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1600,
+    "yearCreated": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.881Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024b"
+    },
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.883Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024c"
+    },
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "hqAddress": "DuBuqueburgh",
+    "brand": {},
+    "headquarters": "Jastside",
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.885Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024d"
+    },
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "brand": {
+      "name": "Licensed Concrete Tuna"
+    },
+    "brandName": "Sauer",
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.890Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "66069ff93007b006635c024e"
+    },
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "brand": "",
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:20.892Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e725810941019a"
+    },
+    "brandName": "Thiel",
+    "yearFounded": 1832,
+    "headquarters": "Identity",
+    "numberOfLocations": 8,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.491Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.491Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e725810941019b"
+    },
+    "brandName": "Stiedemann",
+    "yearFounded": 1764,
+    "headquarters": "Web",
+    "numberOfLocations": 36,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.491Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.491Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e725810941019c"
+    },
+    "brandName": "Pagac",
+    "yearFounded": 1860,
+    "headquarters": "Metrics",
+    "numberOfLocations": 8,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.491Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.491Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e725810941019d"
+    },
+    "brandName": "Powlowski-Baumbach",
+    "yearFounded": 1931,
+    "headquarters": "Integration",
+    "numberOfLocations": 19,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e725810941019e"
+    },
+    "brandName": "Smitham",
+    "yearFounded": 1718,
+    "headquarters": "Program",
+    "numberOfLocations": 30,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e725810941019f"
+    },
+    "brandName": "Will",
+    "yearFounded": 1786,
+    "headquarters": "Group",
+    "numberOfLocations": 47,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e72581094101a0"
+    },
+    "brandName": "Boehm",
+    "yearFounded": 2018,
+    "headquarters": "Research",
+    "numberOfLocations": 16,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e72581094101a1"
+    },
+    "brandName": "Stamm",
+    "yearFounded": 1833,
+    "headquarters": "Functionality",
+    "numberOfLocations": 19,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e72581094101a2"
+    },
+    "brandName": "Sipes",
+    "yearFounded": 1924,
+    "headquarters": "Research",
+    "numberOfLocations": 23,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.492Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "660de04921e72581094101a3"
+    },
+    "brandName": "Kshlerin",
+    "yearFounded": 1797,
+    "headquarters": "Division",
+    "numberOfLocations": 81,
+    "__v": 0,
+    "createdAt": {
+      "$date": "2024-04-03T23:03:37.493Z"
+    },
+    "updatedAt": {
+      "$date": "2024-04-03T23:03:37.493Z"
+    }
+  }]
